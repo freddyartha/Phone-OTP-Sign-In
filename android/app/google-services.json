@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "708258191610",
+    "firebase_url": "https://phone-sign-in-5ae96-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "phone-sign-in-5ae96",
+    "storage_bucket": "phone-sign-in-5ae96.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708258191610:android:0fc90d325e49f8c06dd143",
+        "android_client_info": {
+          "package_name": "com.example.phone_sign_in"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708258191610-vli461274lgjnrobrrjk99iocg931m7q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.phone_sign_in",
+            "certificate_hash": "0b493fc0ca2b0c2dc45a8786c0e82240ffb5963e"
+          }
+        },
+        {
+          "client_id": "708258191610-0dgok34v3e5ugbb56nb76c6jb64dau3p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMTlEuzFWk4Oq9S16NkC5U91Fi2QtnofI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "708258191610-0dgok34v3e5ugbb56nb76c6jb64dau3p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

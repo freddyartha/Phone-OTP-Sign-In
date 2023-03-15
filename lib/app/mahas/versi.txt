@@ -1,0 +1,6 @@
+1.0.0
+1.0.1 db lite
+1.0.2 setup page component onSubmit
+1.0.3 list component getItems
+1.0.4 button email & password
+1.0.5 buttonText on Setup Page
